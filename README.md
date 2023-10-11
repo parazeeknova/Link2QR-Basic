@@ -1,4 +1,3 @@
-# Link2QR-Basic
-A Basic link to QR code generator
+<h2 align="center"> Link to QR Code generator 🍚 :</h2>
 
-***This project was build with collabrative effort of Chadgee P Tey***
+> A simple website for converting link to QR code.
